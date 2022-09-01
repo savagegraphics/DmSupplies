@@ -5,7 +5,7 @@ import { MdVerifiedUser } from 'react-icons/md';
 import { FaAward } from 'react-icons/fa';
 import { BiSupport, BiDollar } from 'react-icons/bi';
 import { GrHostMaintenance } from 'react-icons/gr';
-const iconStyle = (Icon) => <Icon size="3rem" color="#0f0f0f" />;
+const iconStyle = (Icon) => <Icon size="2.5rem" color="#0f0f0f" />;
 
 export const featuresData = [
     {
